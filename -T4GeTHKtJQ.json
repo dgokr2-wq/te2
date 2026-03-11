@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a compilation of rock songs and it consists of punchy kicks, wide electric guitar melodies, distorted bass guitar, energetic crash cymbals, shimmering hi hats and harmonizing male vocals singing over it. It sounds energetic.",
+  "general_mood": "energetic",
+  "genre_tags": [
+    "rock"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "bass guitar, crash cymbals, hi hats",
+  "tempo_and_rhythm": "punchy",
+  "vocal_presence": "male vocals",
+  "production_quality": "low"
+}

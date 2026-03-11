@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a live performance of loud steel pans melody over playback instrumental that consists of shimmering hi hats, open hats and '4 on the floor' kick pattern. There are some crowd talking noises in the background. It sounds exotic and energetic.",
+  "general_mood": "energetic",
+  "genre_tags": [
+    "steel_pans"
+  ],
+  "lead_instrument": "steel_pans",
+  "accompaniment": "hi hats, open hats, '4 on the floor' kick pattern",
+  "tempo_and_rhythm": "4 on the floor",
+  "vocal_presence": "background",
+  "production_quality": "low"
+}

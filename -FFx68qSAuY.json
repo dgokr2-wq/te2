@@ -1,0 +1,12 @@
+{
+  "description": "This is a punk rock music piece.",
+  "general_mood": "aggressive",
+  "genre_tags": [
+    "punk rock"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "bass guitar",
+  "tempo_and_rhythm": "slightly fast-paced rock acoustic drum beat",
+  "vocal_presence": "male vocals",
+  "production_quality": "string"
+}

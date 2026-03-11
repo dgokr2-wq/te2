@@ -1,0 +1,12 @@
+{
+  "description": "The song is an instrumental. The song is medium tempo with a sitar playing solo, tabla playing percussively and other Indian percussion instruments. The song is emotional and poignant. The audio quality is very ordinary.",
+  "general_mood": "emotional",
+  "genre_tags": [
+    "instrumental"
+  ],
+  "lead_instrument": "sitar",
+  "accompaniment": "tabla, Indian percussion instruments",
+  "tempo_and_rhythm": "medium",
+  "vocal_presence": "none",
+  "production_quality": "ordinary"
+}

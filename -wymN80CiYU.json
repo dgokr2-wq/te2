@@ -1,0 +1,12 @@
+{
+  "description": "A male singer sings this beautiful melody with backup singers in vocal harmony. The song is medium tempo with a percussive string section, strong bass line, guitar lead, steady drumming rhythm, keyboard accompaniment and various percussion clicks. The song is emotional and romantic. The song is of poor audio quality.",
+  "general_mood": "emotional",
+  "genre_tags": [
+    "romantic"
+  ],
+  "lead_instrument": "guitar",
+  "accompaniment": "keyboard",
+  "tempo_and_rhythm": "medium tempo, steady drumming rhythm",
+  "vocal_presence": "male singer, backup singers",
+  "production_quality": "poor"
+}

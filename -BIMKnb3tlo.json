@@ -1,0 +1,12 @@
+{
+  "description": "This is a Hindustani classical music piece.",
+  "general_mood": "joyful",
+  "genre_tags": [
+    "Hindustani classical"
+  ],
+  "lead_instrument": "harmonium",
+  "accompaniment": "bansuri, tabla percussion, electronic drums",
+  "tempo_and_rhythm": "rhythmic background",
+  "vocal_presence": "no",
+  "production_quality": "string"
+}

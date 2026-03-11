@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a ballad that consists of a soft female vocal singing over a mellow piano melody and shimmering bells at the end of the loop. The recording is noisy and it sounds passionate, emotional and mystical, almost like a lullaby.",
+  "general_mood": "passionate, emotional, mystical",
+  "genre_tags": [
+    "ballad"
+  ],
+  "lead_instrument": "piano",
+  "accompaniment": "bells",
+  "tempo_and_rhythm": "mellow",
+  "vocal_presence": "soft female vocal",
+  "production_quality": "low"
+}

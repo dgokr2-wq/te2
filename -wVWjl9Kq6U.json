@@ -1,0 +1,14 @@
+{
+  "description": "This music is a melodic instrumental. The tempo is medium with a captivating electric guitar lead, rhythmic acoustic guitar, funky bass line, keyboard accompaniment, steady drumming and trumpets. The music is soothing, atmospheric, euphonious, youthful, and soulful. This instrumental is a Soft Rock/Funk pop.",
+  "general_mood": "soothing, atmospheric, euphonious, youthful, soulful",
+  "genre_tags": [
+    "Soft Rock",
+    "Funk",
+    "Pop"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "rhythmic acoustic guitar, funky bass line, keyboard",
+  "tempo_and_rhythm": "medium",
+  "vocal_presence": "instrumental",
+  "production_quality": "high"
+}

@@ -1,0 +1,12 @@
+{
+  "description": "This song contains an accordion playing a fast melody along with a female voice singing her own melody with a lot of vibrato and sliding down tones. A tabla is playing a rhythm. Everybody seems to make their own thing. So this can be considered a complex composition. This song may be playing live with people listening and sitting on the floor.",
+  "general_mood": "complex",
+  "genre_tags": [
+    "folk"
+  ],
+  "lead_instrument": "accordion",
+  "accompaniment": "tabla",
+  "tempo_and_rhythm": "fast",
+  "vocal_presence": "vocal",
+  "production_quality": "live"
+}

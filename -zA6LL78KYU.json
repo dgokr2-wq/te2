@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a folk song that consists of a passionate female vocal singing over harmonica solo, groovy bass, shimmering hi hats, punchy snare, boomy kicks, groovy electric guitar melody and some claps. It sounds passionate and joyful.",
+  "general_mood": "passionate",
+  "genre_tags": [
+    "folk"
+  ],
+  "lead_instrument": "harmonica",
+  "accompaniment": "bass, hi hats, snare, kicks, electric guitar",
+  "tempo_and_rhythm": "groovy",
+  "vocal_presence": "passionate female vocal",
+  "production_quality": "low quality"
+}

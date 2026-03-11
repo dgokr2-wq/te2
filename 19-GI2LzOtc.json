@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a wide choir singing over widely spread strings and brass melody, followed by a sizzling triangle. It sounds epic, powerful and passionate. The recording is a bit noisy.",
+  "general_mood": "epic, powerful, passionate",
+  "genre_tags": [
+    "choral"
+  ],
+  "lead_instrument": "strings",
+  "accompaniment": "brass",
+  "tempo_and_rhythm": "varies",
+  "vocal_presence": "choir",
+  "production_quality": "low"
+}

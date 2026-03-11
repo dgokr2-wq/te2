@@ -1,0 +1,13 @@
+{
+  "description": "A female vocalist sings this melancholic melody in a foreign language.The tempo is slow with a romantic piano accompaniment. The song is soft, mellow, poignant, emotional,sentimental, romantic, melancholic, sad, lonely,and wistful. This song is a Pop/ Love song.",
+  "general_mood": "melancholic",
+  "genre_tags": [
+    "Pop",
+    "Love"
+  ],
+  "lead_instrument": "piano",
+  "accompaniment": "romantic",
+  "tempo_and_rhythm": "slow",
+  "vocal_presence": "female",
+  "production_quality": "soft"
+}

@@ -1,0 +1,13 @@
+{
+  "description": "The female voice sings in the mid range. The drums is playing a fast rock/hiphop groove along with an acoustic bass breaking along with it into another part of the song. One of the e-guitars is playing some chords running through a strong tremolo effect. While the other guitar sounds distorted and takes the lead. One is panned to the left, the other to the right side of the speakers. This song may be playing at a birthday party.",
+  "general_mood": "upbeat",
+  "genre_tags": [
+    "rock",
+    "hiphop"
+  ],
+  "lead_instrument": "guitar",
+  "accompaniment": "drums, acoustic bass",
+  "tempo_and_rhythm": "fast",
+  "vocal_presence": "female",
+  "production_quality": "high"
+}

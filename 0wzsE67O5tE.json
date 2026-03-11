@@ -1,0 +1,12 @@
+{
+  "description": "The song is an instrumental. The tempo is medium with an acoustic guitar playing lead, electric guitar accompaniment and a groovy bass line and no percussion instruments. The song is spirited and energetic. The audio quality is quite poor and the song has rock music influences.",
+  "general_mood": "spirited",
+  "genre_tags": [
+    "rock"
+  ],
+  "lead_instrument": "acoustic guitar",
+  "accompaniment": "electric guitar",
+  "tempo_and_rhythm": "medium",
+  "vocal_presence": "none",
+  "production_quality": "poor"
+}

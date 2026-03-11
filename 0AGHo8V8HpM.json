@@ -1,0 +1,12 @@
+{
+  "description": "This music is instrumental. The tempo is fast with a spirited cello and harpsichord accompaniment. The music is lively, intense, rich, complex, exquisite and engaging. This music a Western Classical.",
+  "general_mood": "lively",
+  "genre_tags": [
+    "Western Classical"
+  ],
+  "lead_instrument": "cello",
+  "accompaniment": "harpsichord",
+  "tempo_and_rhythm": "fast",
+  "vocal_presence": "instrumental",
+  "production_quality": "rich"
+}

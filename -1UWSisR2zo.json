@@ -1,0 +1,13 @@
+{
+  "description": "A male singer sings this groovy melody. The song is a techno dance song with a groovy bass line, strong drumming rhythm and a keyboard accompaniment. The song is so groovy and serves as a dance track for the dancing children. The audio quality is very poor with high gains and hissing noise.",
+  "general_mood": "groovy",
+  "genre_tags": [
+    "techno",
+    "dance"
+  ],
+  "lead_instrument": "vocal",
+  "accompaniment": "keyboard",
+  "tempo_and_rhythm": "strong drumming rhythm",
+  "vocal_presence": "male singer",
+  "production_quality": "poor"
+}

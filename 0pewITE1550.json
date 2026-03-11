@@ -1,0 +1,12 @@
+{
+  "description": "The song is an instrumental. The song is medium tempo with various marching band drums playing in sync. The song is highly energetic and spirited. The song is bad in audio quality. The song is a college marching band playing enthusiastically.",
+  "general_mood": "energetic",
+  "genre_tags": [
+    "instrumental"
+  ],
+  "lead_instrument": "marching band drums",
+  "accompaniment": "various marching band drums",
+  "tempo_and_rhythm": "medium tempo",
+  "vocal_presence": "none",
+  "production_quality": "bad"
+}

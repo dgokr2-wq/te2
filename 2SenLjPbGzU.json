@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a pop song that consists of a passionate male vocal, alongside background male vocals, singing over punchy 808 bass, claps, shimmering hi hats, wide tinny percussion, repetitive synth lead melody and groovy synth keys melody. It sounds groovy, addictive and exciting - like something you would hear in a club.",
+  "general_mood": "groovy",
+  "genre_tags": [
+    "pop"
+  ],
+  "lead_instrument": "synth",
+  "accompaniment": "808 bass, claps, shimmering hi hats, wide tinny percussion",
+  "tempo_and_rhythm": "club",
+  "vocal_presence": "male",
+  "production_quality": "low"
+}

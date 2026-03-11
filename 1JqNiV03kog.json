@@ -1,0 +1,12 @@
+{
+  "description": "This is a Carnatic classical music piece. There is a female vocalist singing melodically while shifting her voice in a veena-like manner. The sitar is playing the melody and the tabla is playing the rhythm. There is a sentimental and dreamy atmosphere to this piece.",
+  "general_mood": "sentimental",
+  "genre_tags": [
+    "Carnatic classical"
+  ],
+  "lead_instrument": "sitar",
+  "accompaniment": "tabla",
+  "tempo_and_rhythm": "rhythm",
+  "vocal_presence": "female",
+  "production_quality": "string"
+}

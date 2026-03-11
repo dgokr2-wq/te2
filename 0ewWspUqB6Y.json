@@ -1,0 +1,12 @@
+{
+  "description": "This is a Romanian folk music piece. It is a live performance. In the background, there is a contrabass and a cimbalom playing. The main melody is being played by the violin and the accordion. The atmosphere is vibrant and cheerful. This piece could be used in the soundtrack of a comedy movie that takes place in eastern Europe or the Balkans, especially during an escape scene.",
+  "general_mood": "vibrant",
+  "genre_tags": [
+    "folk"
+  ],
+  "lead_instrument": "violin",
+  "accompaniment": "contrabass, cimbalom",
+  "tempo_and_rhythm": "string",
+  "vocal_presence": "string",
+  "production_quality": "string"
+}

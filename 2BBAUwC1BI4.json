@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features an arpeggiated electric guitar melody performance. The recording is noisy and in mono, as it was probably recorded with a phone. It sounds mystical and intense.",
+  "general_mood": "mystical",
+  "genre_tags": [
+    "rock"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "none",
+  "tempo_and_rhythm": "varies",
+  "vocal_presence": "none",
+  "production_quality": "low"
+}

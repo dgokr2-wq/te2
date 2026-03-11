@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a girl with a sweet voice singing over pop songs played on playback. The recording is in mono, very noisy and it sounds muffled, but also happy, fun and innocent.",
+  "general_mood": "happy, fun, innocent",
+  "genre_tags": [
+    "pop"
+  ],
+  "lead_instrument": "voice",
+  "accompaniment": "playback",
+  "tempo_and_rhythm": "not specified",
+  "vocal_presence": "present",
+  "production_quality": "low"
+}

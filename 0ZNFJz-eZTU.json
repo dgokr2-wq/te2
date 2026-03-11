@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a jazz song cover that consists of a passionate saxophone melody played over soft hi hats and kick hits, snappy rimshots, smooth bass, organ keys chords and mellow piano chords. It sounds emotional, passionate and reverberant - as it was probably recorded in a medium size room.",
+  "general_mood": "emotional",
+  "genre_tags": [
+    "jazz"
+  ],
+  "lead_instrument": "saxophone",
+  "accompaniment": "hi hats, kick hits, rimshots, smooth bass, organ keys chords, mellow piano chords",
+  "tempo_and_rhythm": "",
+  "vocal_presence": "",
+  "production_quality": "low"
+}

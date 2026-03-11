@@ -1,0 +1,13 @@
+{
+  "description": "An organ is playing chords and melodies while a male voice is singing soulfully with a lot of reverb and delay in his voice. This is an amateur recording. This song may be playing proposing to someone.",
+  "general_mood": "soulful",
+  "genre_tags": [
+    "organ",
+    "male_vocal"
+  ],
+  "lead_instrument": "organ",
+  "accompaniment": "male_vocal",
+  "tempo_and_rhythm": "varies",
+  "vocal_presence": "present",
+  "production_quality": "amateur"
+}

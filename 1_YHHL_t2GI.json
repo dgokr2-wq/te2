@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features clapping and shoe tapping sounds over rock songs played on playback. The song consists of a passionate male vocal that sings over punchy kick and snare hits, shimmering hi hats, electric guitar melody and groovy bass guitar. The recording is in mono and a bit noisy, as it was probably recorded with a phone.",
+  "general_mood": "rock",
+  "genre_tags": [
+    "rock"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "kick and snare hits, shimmering hi hats, bass guitar",
+  "tempo_and_rhythm": "rock",
+  "vocal_presence": "male",
+  "production_quality": "low"
+}

@@ -1,0 +1,12 @@
+{
+  "description": "A male vocalist sings this song. The tempo is slow, with intense drumming; keyboard harmony, groovy bass lines and electric guitar harmony in the background. The vocalist is singing a dissonant tune along with syncopated music over the melodious and rhythmic background. This is probably karaoke.",
+  "general_mood": "intense",
+  "genre_tags": [
+    "rock"
+  ],
+  "lead_instrument": "vocalist",
+  "accompaniment": "drumming, keyboard harmony, groovy bass lines, electric guitar harmony",
+  "tempo_and_rhythm": "slow, syncopated",
+  "vocal_presence": "present",
+  "production_quality": "good"
+}

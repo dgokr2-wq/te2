@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a southern rock song that consists of flat male vocal singing over wide acoustic rhythm guitars, short electric guitar lick, smooth bass guitar, punchy snare, simple kick pattern and shimmering hi-hats. It sounds happy and fun.",
+  "general_mood": "happy",
+  "genre_tags": [
+    "southern rock"
+  ],
+  "lead_instrument": "vocal",
+  "accompaniment": "acoustic rhythm guitars, short electric guitar lick, smooth bass guitar, punchy snare, simple kick pattern and shimmering hi-hats",
+  "tempo_and_rhythm": "simple",
+  "vocal_presence": "male",
+  "production_quality": "low"
+}

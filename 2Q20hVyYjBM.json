@@ -1,0 +1,12 @@
+{
+  "description": "A male vocalist sings this passionate song in Dutch. The tempo is slow with vocal emphasis and an accordion harmony. The song is a simple, narrative, slow Folk song.",
+  "general_mood": "passionate",
+  "genre_tags": [
+    "Folk"
+  ],
+  "lead_instrument": "vocalist",
+  "accompaniment": "accordion",
+  "tempo_and_rhythm": "slow",
+  "vocal_presence": "present",
+  "production_quality": "simple"
+}

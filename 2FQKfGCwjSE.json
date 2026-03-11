@@ -1,0 +1,12 @@
+{
+  "description": "The song has different music tracks played in succession. The song has guitar accompaniment and a groovy bass followed by female singer singing vocal chants with male backup singer in vocal harmony, on a groovy drum rhythm and keyboard harmony with white noise added. The song is probably an ad jingle.",
+  "general_mood": "groovy",
+  "genre_tags": [
+    "ad jingle"
+  ],
+  "lead_instrument": "guitar",
+  "accompaniment": "groovy bass",
+  "tempo_and_rhythm": "groovy drum rhythm",
+  "vocal_presence": "female singer with male backup singer",
+  "production_quality": "good"
+}

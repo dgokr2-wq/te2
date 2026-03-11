@@ -1,0 +1,12 @@
+{
+  "description": "A female singer sings this cool pop melody with backup singers in vocal harmony. The song is medium tempo with a groovy bass line, steady drumming rhythm, and keyboard accompaniment. The song is exciting and youthful. The audio quality with a lot of ambient crowd noises.",
+  "general_mood": "exciting",
+  "genre_tags": [
+    "pop"
+  ],
+  "lead_instrument": "vocal",
+  "accompaniment": "keyboard",
+  "tempo_and_rhythm": "medium tempo, groovy bass line, steady drumming rhythm",
+  "vocal_presence": "backup singers in vocal harmony",
+  "production_quality": "good, ambient crowd noises"
+}

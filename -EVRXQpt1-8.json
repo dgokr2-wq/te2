@@ -1,0 +1,13 @@
+{
+  "description": "Someone is playing a guitar-like instrument in a tremolo fashion along with someone playing a melody on a harp along with a bass playing the root note. A male voice is singing, sounding sad and sensitive. A backing voice that seems to be female is singing along, providing harmonies. This song may be playing in a dance performance.",
+  "general_mood": "sad",
+  "genre_tags": [
+    "instrumental",
+    "folk"
+  ],
+  "lead_instrument": "guitar-like instrument",
+  "accompaniment": "harp, bass",
+  "tempo_and_rhythm": "steady",
+  "vocal_presence": "male, female backing",
+  "production_quality": "high"
+}

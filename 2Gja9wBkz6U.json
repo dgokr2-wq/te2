@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a theremin solo melody. It sounds spacey and weird, as the recording is noisy.",
+  "general_mood": "spacey",
+  "genre_tags": [
+    "experimental"
+  ],
+  "lead_instrument": "theremin",
+  "accompaniment": "none",
+  "tempo_and_rhythm": "varies",
+  "vocal_presence": "none",
+  "production_quality": "low"
+}

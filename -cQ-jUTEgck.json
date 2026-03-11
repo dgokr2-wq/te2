@@ -1,0 +1,12 @@
+{
+  "description": "This is a live performance of a southern rock piece. There is an electric guitar playing a blues solo. There is a bass guitar playing in the background. The rhythm is being played by the acoustic drums. The atmosphere is groovy. This piece could be playing in the background at a rock bar.",
+  "general_mood": "groovy",
+  "genre_tags": [
+    "southern rock"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "bass guitar, acoustic drums",
+  "tempo_and_rhythm": "rhythm is being played by acoustic drums",
+  "vocal_presence": "none",
+  "production_quality": "live performance"
+}

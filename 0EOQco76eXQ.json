@@ -1,0 +1,13 @@
+{
+  "description": "The song is an instrumental. The song is slow tempo with gentle drum brushes, percussion, bass guitar solo, and piano accompaniment gently. The song is groovy and emotional. The song is possibly a Christian worship song or a smooth jazz song. The audio quality is average.",
+  "general_mood": "emotional",
+  "genre_tags": [
+    "Christian worship",
+    "smooth jazz"
+  ],
+  "lead_instrument": "bass guitar",
+  "accompaniment": "piano",
+  "tempo_and_rhythm": "slow",
+  "vocal_presence": "instrumental",
+  "production_quality": "average"
+}

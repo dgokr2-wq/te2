@@ -1,0 +1,12 @@
+{
+  "description": "This is a hip-hop music piece. There is a crisp synth sound playing the melody. The piece has a strong bass sound. There is a melodic pad with beat repeat effect that uses a piano sample. The rhythmic background is provided by a loud electronic drum beat. The piece is energetic and modern sounding. It could be used in the soundtrack of a sci-fi movie where there is a lot of action going on.",
+  "general_mood": "energetic",
+  "genre_tags": [
+    "hip-hop"
+  ],
+  "lead_instrument": "synth",
+  "accompaniment": "bass, electronic drum beat",
+  "tempo_and_rhythm": "energetic",
+  "vocal_presence": "no",
+  "production_quality": "modern"
+}

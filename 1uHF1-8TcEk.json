@@ -1,0 +1,12 @@
+{
+  "description": "The clip features a choir singing a hymnal type of song. This was recorded live. There's a piano accompanying the choir. They are humming in a gentle and angelic way.",
+  "general_mood": "gentle",
+  "genre_tags": [
+    "hymnal"
+  ],
+  "lead_instrument": "piano",
+  "accompaniment": "piano",
+  "tempo_and_rhythm": "N/A",
+  "vocal_presence": "choir",
+  "production_quality": "live"
+}

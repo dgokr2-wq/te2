@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a live performance of a traditional song that consists of fruity male vocals, alongside harmonizing boy background vocals, singing over subtle strings melody and wooden percussion. It sounds passionate, soulful and emotional, even though the recording is really noisy, as it was probably recorded with a poor quality microphone.",
+  "general_mood": "passionate, soulful, emotional",
+  "genre_tags": [
+    "traditional"
+  ],
+  "lead_instrument": "male vocals",
+  "accompaniment": "strings, wooden percussion",
+  "tempo_and_rhythm": "not specified",
+  "vocal_presence": "male vocals, boy background vocals",
+  "production_quality": "poor"
+}

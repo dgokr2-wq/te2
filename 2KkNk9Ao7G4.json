@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a punchy kick and snare hits, followed by shimmering hi hats, buzzy synth bass and 8 bit synth lead melody. It sounds groovy, weird and like something you would hear as background music in games.",
+  "general_mood": "groovy",
+  "genre_tags": [
+    "chiptune"
+  ],
+  "lead_instrument": "8 bit synth",
+  "accompaniment": "synth bass",
+  "tempo_and_rhythm": "punchy",
+  "vocal_presence": "none",
+  "production_quality": "low"
+}

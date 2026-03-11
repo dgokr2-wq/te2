@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a mellow arpeggiated piano melody playing in the background, while the breathy flute melody is playing over it. It sounds passionate, emotional and soulful.",
+  "general_mood": "passionate, emotional, soulful",
+  "genre_tags": [
+    "instrumental"
+  ],
+  "lead_instrument": "piano",
+  "accompaniment": "flute",
+  "tempo_and_rhythm": "arpeggiated",
+  "vocal_presence": "no",
+  "production_quality": "low"
+}

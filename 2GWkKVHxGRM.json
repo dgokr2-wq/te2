@@ -1,0 +1,12 @@
+{
+  "description": "This music is a live instrumental.The music is medium tempo with a dominant piano accompaniment, keyboard harmony, bright drumming, funky bass line, congas rhythm and tambourine beats. The music is a live performance as there are ambient background sounds of people talking and laughing.",
+  "general_mood": "",
+  "genre_tags": [
+    "instrumental"
+  ],
+  "lead_instrument": "piano",
+  "accompaniment": "keyboard",
+  "tempo_and_rhythm": "medium tempo",
+  "vocal_presence": "no",
+  "production_quality": "live"
+}

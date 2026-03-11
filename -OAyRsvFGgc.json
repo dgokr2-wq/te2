@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a cover of a rock song that consists of an electric guitar solo melody played over playback instrumental.",
+  "general_mood": "passionate",
+  "genre_tags": [
+    "rock"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "playback instrumental",
+  "tempo_and_rhythm": "not specified",
+  "vocal_presence": "no vocals",
+  "production_quality": "low"
+}

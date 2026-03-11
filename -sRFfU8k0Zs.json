@@ -1,0 +1,13 @@
+{
+  "description": "This is an Arabic movie music piece. It is an instrumental piece. There is a clarinet playing a vague melody. The sound of knives being rubbed against one another can be heard. There is an ominous, terrifying atmosphere. This piece could be used in the soundtrack of a horror movie to imply the feeling of hopelessness.",
+  "general_mood": "ominous",
+  "genre_tags": [
+    "Arabic",
+    "instrumental"
+  ],
+  "lead_instrument": "clarinet",
+  "accompaniment": "sound of knives being rubbed against one another",
+  "tempo_and_rhythm": "not applicable",
+  "vocal_presence": "no",
+  "production_quality": "not applicable"
+}

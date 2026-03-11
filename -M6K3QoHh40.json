@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a R&B song playing on a speaker, judging by the reverberant and boomy sound of it. The song consists of passionate male vocal singing over shimmering hi hats, claps, groovy bass and '4 on the floor' kick pattern, It sounds passionate, like something you would dance to with your partner.",
+  "general_mood": "passionate",
+  "genre_tags": [
+    "R&B"
+  ],
+  "lead_instrument": "male vocal",
+  "accompaniment": "hi hats, claps, groovy bass",
+  "tempo_and_rhythm": "'4 on the floor' kick pattern",
+  "vocal_presence": "male",
+  "production_quality": "low"
+}

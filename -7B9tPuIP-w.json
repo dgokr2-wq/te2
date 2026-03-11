@@ -1,0 +1,12 @@
+{
+  "description": "A male voice narrates a monologue to the rhythm of a song in the background. The song is fast tempo with enthusiastic drumming, groovy bass lines,cymbal ride, keyboard accompaniment,electric guitar and animated vocals. The song plays softly  in the background as the narrator speaks and burgeons when he stops. The song is a classic Rock and Roll and the narration is a Documentary.",
+  "general_mood": "energetic",
+  "genre_tags": [
+    "Rock and Roll"
+  ],
+  "lead_instrument": "drumming",
+  "accompaniment": "keyboard, electric guitar, bass lines, cymbal ride",
+  "tempo_and_rhythm": "fast",
+  "vocal_presence": "animated",
+  "production_quality": "high"
+}

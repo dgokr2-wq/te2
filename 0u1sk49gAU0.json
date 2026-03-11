@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a flat male vocal talking and playing a groovy accordion melody, before which a male and a female laugh. It sounds passionate and groovy.",
+  "general_mood": "passionate",
+  "genre_tags": [
+    "groovy"
+  ],
+  "lead_instrument": "accordion",
+  "accompaniment": "male vocal",
+  "tempo_and_rhythm": "groovy",
+  "vocal_presence": "male",
+  "production_quality": "low"
+}

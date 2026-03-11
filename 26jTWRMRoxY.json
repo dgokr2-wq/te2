@@ -1,0 +1,12 @@
+{
+  "description": "The song is an instrumental with separate audio tracks. The tempos are medium with female vocals, backup singers, groovy drum rhythms, keyboard harmony, guitar accompaniment and various percussive hits. The song is energetic and exciting. The song is an ad jingle for a software product. The audio quality is poor with hissing tones.",
+  "general_mood": "energetic",
+  "genre_tags": [
+    "instrumental"
+  ],
+  "lead_instrument": "guitar",
+  "accompaniment": "keyboard",
+  "tempo_and_rhythm": "medium",
+  "vocal_presence": "female",
+  "production_quality": "poor"
+}

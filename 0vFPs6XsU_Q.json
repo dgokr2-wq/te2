@@ -1,0 +1,12 @@
+{
+  "description": "A male and female child singers sing this vocal duet in harmony. The song is medium tempo with keyboard accompaniment, groovy bass line and an enthusiastic drumming rhythm. The song is passionate and loving. The song is a retro tv show tune and in poor audio quality.",
+  "general_mood": "passionate",
+  "genre_tags": [
+    "retro"
+  ],
+  "lead_instrument": "vocal",
+  "accompaniment": "keyboard",
+  "tempo_and_rhythm": "medium tempo, groovy bass line, enthusiastic drumming rhythm",
+  "vocal_presence": "duet",
+  "production_quality": "poor"
+}

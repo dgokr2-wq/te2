@@ -1,0 +1,13 @@
+{
+  "description": "Someone is playing a fast melody on a low bansuri flute along with someone playing tablas and a shrutibox in the background. This song may be playing at a live performance.",
+  "general_mood": "energetic",
+  "genre_tags": [
+    "world",
+    "indian"
+  ],
+  "lead_instrument": "bansuri flute",
+  "accompaniment": "tablas, shrutibox",
+  "tempo_and_rhythm": "fast",
+  "vocal_presence": "no",
+  "production_quality": "live"
+}

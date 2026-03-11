@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a live performance of a traditional song and it consists of an echoing male vocal singing over acoustic strings melody, plucked strings melody and wooden percussion. There is a crowd chattering noise in the background. The recording is a bit noisy and it sounds passionate.",
+  "general_mood": "passionate",
+  "genre_tags": [
+    "traditional"
+  ],
+  "lead_instrument": "male vocal",
+  "accompaniment": "acoustic strings, plucked strings, wooden percussion",
+  "tempo_and_rhythm": "live performance",
+  "vocal_presence": "male",
+  "production_quality": "low"
+}

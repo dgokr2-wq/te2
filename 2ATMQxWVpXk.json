@@ -1,0 +1,12 @@
+{
+  "description": "A male singer screams and laughs loudly. The song is medium tempo with steady rock drumming, groovy bass line and electric guitar rhythm. The song is energetic and haunting. The song is a modern punk rock song.",
+  "general_mood": "energetic",
+  "genre_tags": [
+    "punk rock"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "rock drumming, groovy bass line",
+  "tempo_and_rhythm": "medium tempo",
+  "vocal_presence": "male singer",
+  "production_quality": "modern"
+}

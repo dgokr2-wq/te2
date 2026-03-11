@@ -1,0 +1,12 @@
+{
+  "description": "The song is an instrumental. The song is medium tempo with a groovy rhythm and fast fingers playing this banjo solo. The song is entertaining and exciting. The song is of poor audio quality and a live performance video.",
+  "general_mood": "entertaining",
+  "genre_tags": [
+    "instrumental"
+  ],
+  "lead_instrument": "banjo",
+  "accompaniment": "fast fingers",
+  "tempo_and_rhythm": "medium tempo with a groovy rhythm",
+  "vocal_presence": "none",
+  "production_quality": "poor"
+}

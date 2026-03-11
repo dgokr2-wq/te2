@@ -1,0 +1,12 @@
+{
+  "description": "The song is an instrumental. The tempo is medium fast with a strong guitar lead, rock drumming rhythm, percussive bass line and an electric guitar strumming rhythm. The song is high on adrenaline and exciting. The audio quality is very bad with ambient crowd screaming noises.",
+  "general_mood": "exciting",
+  "genre_tags": [
+    "rock"
+  ],
+  "lead_instrument": "guitar",
+  "accompaniment": "rock drumming, percussive bass line, electric guitar strumming rhythm",
+  "tempo_and_rhythm": "medium fast",
+  "vocal_presence": "instrumental",
+  "production_quality": "bad"
+}

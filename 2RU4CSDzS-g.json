@@ -1,0 +1,12 @@
+{
+  "description": "This slow pop song features a male voice singing the main melody. This is accompanied by an acoustic guitar plucking chords. Another acoustic guitar plays in harmony with the first guitar. The mood of this song is romantic. The voice is calming and the song is relaxing. The bass notes are accented and toward the end, the bass notes slide to the next note. This song can be played in a romantic movie.",
+  "general_mood": "romantic",
+  "genre_tags": [
+    "pop"
+  ],
+  "lead_instrument": "male voice",
+  "accompaniment": "acoustic guitar",
+  "tempo_and_rhythm": "slow",
+  "vocal_presence": "main melody",
+  "production_quality": "relaxing"
+}

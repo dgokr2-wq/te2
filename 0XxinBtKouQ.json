@@ -1,0 +1,13 @@
+{
+  "description": "A group of male vocalists sing this happy, upbeat country /bluegrass song. The tempo is fast with vigorous and animated acoustic guitar, banjo, mandolin and auto harp lead and harmony. The song is a live performance with ambient sounds of clapping, cheering and people talking. This song is a cheerful Country Pop/Bluegrass song.",
+  "general_mood": "happy",
+  "genre_tags": [
+    "country",
+    "bluegrass"
+  ],
+  "lead_instrument": "acoustic guitar, banjo, mandolin, auto harp",
+  "accompaniment": "ambient sounds of clapping, cheering and people talking",
+  "tempo_and_rhythm": "fast",
+  "vocal_presence": "male vocalists",
+  "production_quality": "live performance"
+}

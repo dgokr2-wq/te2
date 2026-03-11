@@ -1,0 +1,15 @@
+{
+  "description": "A male singer sings this cool hip hop love song with backup singers in vocal harmony. The tempo is medium with keyboard accompaniment, piano accompaniment, steady drumming rhythm, clapping percussion and other sonic effects. The song is emotional and romantic with a cool dance groove,",
+  "general_mood": "emotional",
+  "genre_tags": [
+    "hip hop"
+  ],
+  "lead_instrument": "male singer",
+  "accompaniment": [
+    "keyboard",
+    "piano"
+  ],
+  "tempo_and_rhythm": "medium",
+  "vocal_presence": "backup singers",
+  "production_quality": "sonic effects"
+}

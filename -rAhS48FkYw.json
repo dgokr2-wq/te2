@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a pop song that consists of a passionate male vocal singing over mellow kick hits, shimmering hi hats, wide electric guitar melody, syncopated snare and wooden percussion. The first half of the loop does not consist of the vocal, snare and hi hats. It sounds happy, fun and joyful.",
+  "general_mood": "happy",
+  "genre_tags": [
+    "pop"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "kick hits, hi hats, snare, wooden percussion",
+  "tempo_and_rhythm": "syncopated",
+  "vocal_presence": "male vocal",
+  "production_quality": "low"
+}

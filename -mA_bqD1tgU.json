@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a folk song that consists of a wooden percussion, groovy bass, breathy flute melody, groovy piano melody, shimmering shakers and sustained strings melody. It sounds passionate, joyful and happy.",
+  "general_mood": "passionate, joyful, happy",
+  "genre_tags": [
+    "folk"
+  ],
+  "lead_instrument": "flute",
+  "accompaniment": "piano, bass, percussion, shakers, strings",
+  "tempo_and_rhythm": "groovy",
+  "vocal_presence": "no",
+  "production_quality": "low"
+}

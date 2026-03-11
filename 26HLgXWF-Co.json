@@ -1,0 +1,12 @@
+{
+  "description": "This audio contains someone playing a classical melody on an acoustic guitar using fingerstyle. This audio is full of reverb. This song may be playing at a talent show.",
+  "general_mood": "string",
+  "genre_tags": [
+    "classical"
+  ],
+  "lead_instrument": "acoustic guitar",
+  "accompaniment": "fingerstyle",
+  "tempo_and_rhythm": "string",
+  "vocal_presence": "no",
+  "production_quality": "string"
+}

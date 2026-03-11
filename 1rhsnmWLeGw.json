@@ -1,0 +1,14 @@
+{
+  "description": "A female vocalist sings this pleasant melody. The tempo is slow with a melodic piano accompaniment. There is minimal instrumentation with emphasis on vocals. The song is soft, mellow, soothing, calming, mellifluous, pleasant, and dreamy. This song is a love song, children’s song or a lullaby.",
+  "general_mood": "soft",
+  "genre_tags": [
+    "love song",
+    "children's song",
+    "lullaby"
+  ],
+  "lead_instrument": "piano",
+  "accompaniment": "melodic",
+  "tempo_and_rhythm": "slow",
+  "vocal_presence": "emphasized",
+  "production_quality": "high"
+}

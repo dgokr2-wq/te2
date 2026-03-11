@@ -1,0 +1,12 @@
+{
+  "description": "This amateur recording features a classic song.",
+  "general_mood": "classic",
+  "genre_tags": [
+    "instrumental"
+  ],
+  "lead_instrument": "violin",
+  "accompaniment": "percussion, keyboard",
+  "tempo_and_rhythm": "simple beat",
+  "vocal_presence": "no",
+  "production_quality": "low"
+}

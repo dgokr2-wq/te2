@@ -1,0 +1,12 @@
+{
+  "description": "A female singer sings and chants with Emily. The tempo is fast with a quick drumming rhythm, percussive bass line, strong drumming rhythm and keyboard accompaniment. The song is exciting  and energetic. The song is an anime show soundtrack.",
+  "general_mood": "exciting",
+  "genre_tags": [
+    "anime"
+  ],
+  "lead_instrument": "vocal",
+  "accompaniment": "drumming, percussive bass line, keyboard",
+  "tempo_and_rhythm": "fast, quick drumming rhythm",
+  "vocal_presence": "singer",
+  "production_quality": "strong"
+}

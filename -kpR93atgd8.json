@@ -1,0 +1,13 @@
+{
+  "description": "An acoustic drum is playing along with a bassline giving the song a ska/reggae feeling. The e-guitar strumming on the offbeat supports that feeling while a keyboard is playing a bell-sounding chord. Bongos are setting little accents at the end. A saxophone is playing a melody along. This song may be playing at a festival outside while the sun is shining.",
+  "general_mood": "upbeat",
+  "genre_tags": [
+    "ska",
+    "reggae"
+  ],
+  "lead_instrument": "acoustic drum",
+  "accompaniment": "bassline, e-guitar, keyboard, bongos",
+  "tempo_and_rhythm": "offbeat",
+  "vocal_presence": "none",
+  "production_quality": "good"
+}

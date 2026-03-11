@@ -1,0 +1,15 @@
+{
+  "description": "The song is an instrumental jazz tune.",
+  "general_mood": "romantic",
+  "genre_tags": [
+    "jazz"
+  ],
+  "lead_instrument": "trumpet",
+  "accompaniment": [
+    "piano",
+    "guitar"
+  ],
+  "tempo_and_rhythm": "medium",
+  "vocal_presence": "none",
+  "production_quality": "good"
+}

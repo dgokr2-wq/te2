@@ -1,0 +1,12 @@
+{
+  "description": "This music is a lively instrumental. The tempo is fast with an infectious accordion harmony, rhythmic acoustic guitar, violin harmony and keyboard accompaniment. The music is pleasant, happy, cheerful, warm, sprightly, romantic, carefree, upbeat and genial. This music sounds like a movie soundtrack.",
+  "general_mood": "lively",
+  "genre_tags": [
+    "instrumental"
+  ],
+  "lead_instrument": "accordion",
+  "accompaniment": "acoustic guitar, violin, keyboard",
+  "tempo_and_rhythm": "fast",
+  "vocal_presence": "none",
+  "production_quality": "good"
+}

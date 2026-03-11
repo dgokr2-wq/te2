@@ -1,0 +1,12 @@
+{
+  "description": "The song is an instrumental. The song is slow tempo with building crescendo, string section harmony, horn section, drums playing steadily and piano accompaniment. The song is suspenseful and builds anticipation. The song is a movie soundtrack and has an average audio quality.",
+  "general_mood": "suspenseful",
+  "genre_tags": [
+    "instrumental"
+  ],
+  "lead_instrument": "piano",
+  "accompaniment": "piano",
+  "tempo_and_rhythm": "slow",
+  "vocal_presence": "none",
+  "production_quality": "average"
+}

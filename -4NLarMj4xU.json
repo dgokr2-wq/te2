@@ -1,0 +1,12 @@
+{
+  "description": "The Pop song features a soft female vocal singing over sustained pulsating synth lead, mellow piano melody, sustained synth brass, punchy kick, claps. tinny wide hi hats and high pitched female vocal melody. It sounds emotional, sad, passionate and like something you would hear on a radio.",
+  "general_mood": "emotional, sad, passionate",
+  "genre_tags": [
+    "Pop"
+  ],
+  "lead_instrument": "synth",
+  "accompaniment": "piano, synth brass, kick, claps, hi hats",
+  "tempo_and_rhythm": "pulsating",
+  "vocal_presence": "soft female vocal",
+  "production_quality": "radio-quality"
+}

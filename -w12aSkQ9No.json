@@ -1,0 +1,12 @@
+{
+  "description": "A female vocalist sings this soprano solo. The tempo is slow with a classic orchestral accompaniment of violin harmony, an intense incessant cello melody, brass instrument and organ. The song is an intense, emotional, beseeching, sad, and imploring classic opera.",
+  "general_mood": "sad",
+  "genre_tags": [
+    "opera"
+  ],
+  "lead_instrument": "soprano",
+  "accompaniment": "orchestral",
+  "tempo_and_rhythm": "slow",
+  "vocal_presence": "soprano",
+  "production_quality": "classic"
+}

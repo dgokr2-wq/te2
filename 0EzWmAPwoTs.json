@@ -1,0 +1,12 @@
+{
+  "description": "The Rock song features an energetic male vocal singing over repetitive electric guitar melody, groovy bass, punchy kick and snare, shimmering hi hats and energetic crash cymbal. There is a short drum roll that represents a variation in a repetitive loop. It sounds energetic and passionate.",
+  "general_mood": "energetic",
+  "genre_tags": [
+    "Rock"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "groovy bass, punchy kick and snare, shimmering hi hats and energetic crash cymbal",
+  "tempo_and_rhythm": "repetitive loop",
+  "vocal_presence": "male vocal",
+  "production_quality": "good"
+}

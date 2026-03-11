@@ -1,0 +1,12 @@
+{
+  "description": "The pop rock music features a male voice singing. An electric guitar with a distortion effect on plays plays two chords every two measures. The drums play a strong rhythm and together with a synth bass drive the pulse of the music.",
+  "general_mood": "string",
+  "genre_tags": [
+    "pop rock"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "drums, synth bass",
+  "tempo_and_rhythm": "strong rhythm",
+  "vocal_presence": "male voice singing",
+  "production_quality": "string"
+}

@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a pop song performed by passionate male vocalists, followed by acoustic guitar arpeggiated melody and mellow piano melody. It sounds heartfelt and emotional. There are some crowd noises in the background.",
+  "general_mood": "heartfelt",
+  "genre_tags": [
+    "pop"
+  ],
+  "lead_instrument": "acoustic guitar",
+  "accompaniment": "piano",
+  "tempo_and_rhythm": "",
+  "vocal_presence": "male vocalists",
+  "production_quality": "low"
+}

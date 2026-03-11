@@ -1,0 +1,13 @@
+{
+  "description": "The low quality recording features a live performance of an Alternative/Indie song and it consists of passionate female vocal singing over acoustic guitar strummed chord and wooden percussive element. The recording is noisy and the vocal is slightly moving throughout the stereo image making it unbalanced. It sounds passionate and emotional.",
+  "general_mood": "passionate",
+  "genre_tags": [
+    "Alternative",
+    "Indie"
+  ],
+  "lead_instrument": "acoustic guitar",
+  "accompaniment": "wooden percussive element",
+  "tempo_and_rhythm": "",
+  "vocal_presence": "singing",
+  "production_quality": "low"
+}

@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a, what it seems like, karaoke cover of a muffled pop song that consists of some guitar melodies and rock-ish drums, over which an emotional female vocal is singing. There are some laughing and chattering crowd sound effects in the background too. It sounds fun and emotional, but also noisy and kind of chaotic.",
+  "general_mood": "fun, emotional",
+  "genre_tags": [
+    "pop"
+  ],
+  "lead_instrument": "guitar",
+  "accompaniment": "rock-ish drums",
+  "tempo_and_rhythm": "varies",
+  "vocal_presence": "emotional female vocal",
+  "production_quality": "low"
+}

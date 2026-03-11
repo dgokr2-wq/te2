@@ -1,0 +1,12 @@
+{
+  "description": "This is a rock music piece with a male vocal.",
+  "general_mood": "sad",
+  "genre_tags": [
+    "rock"
+  ],
+  "lead_instrument": "synth and piano",
+  "accompaniment": "bass guitar",
+  "tempo_and_rhythm": "slow",
+  "vocal_presence": "male",
+  "production_quality": "string"
+}

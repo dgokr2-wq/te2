@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a rock song that consists of flat male vocal singing over sustained and arpeggiated electric guitar melodies, followed by snappy rimshots, soft kick, shimmering hi hats and groovy bass guitar. It sounds emotional and easygoing.",
+  "general_mood": "emotional",
+  "genre_tags": [
+    "rock"
+  ],
+  "lead_instrument": "electric guitar",
+  "accompaniment": "snappy rimshots, soft kick, shimmering hi hats, groovy bass guitar",
+  "tempo_and_rhythm": "",
+  "vocal_presence": "flat male vocal singing",
+  "production_quality": "low quality"
+}

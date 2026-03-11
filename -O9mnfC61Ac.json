@@ -1,0 +1,12 @@
+{
+  "description": "This is a country music piece. There is a fiddle playing the main melody. The acoustic guitar and the electric guitar are playing gently in the background. The song has a slow tempo. The atmosphere is sentimental. This piece can be used in the soundtrack of an American drama movie, especially during the scenes where the feeling of longing is emphasized.",
+  "general_mood": "sentimental",
+  "genre_tags": [
+    "country"
+  ],
+  "lead_instrument": "fiddle",
+  "accompaniment": "acoustic guitar, electric guitar",
+  "tempo_and_rhythm": "slow",
+  "vocal_presence": "none",
+  "production_quality": "good"
+}

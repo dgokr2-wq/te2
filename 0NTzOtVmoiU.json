@@ -1,0 +1,12 @@
+{
+  "description": "The song is an instrumental. The song is fast in tempo, with a bagpiper playing a Solo melody accompanied by a drum rhythm and people cheering and clapping wildly. The song is rousing in spirit and fervour. The song has a bad audio quality.",
+  "general_mood": "rousing",
+  "genre_tags": [
+    "instrumental"
+  ],
+  "lead_instrument": "bagpiper",
+  "accompaniment": "drum rhythm, people cheering and clapping",
+  "tempo_and_rhythm": "fast",
+  "vocal_presence": "none",
+  "production_quality": "bad"
+}

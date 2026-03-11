@@ -1,0 +1,12 @@
+{
+  "description": "This is a teen pop music piece. There is a teen female vocalist singing melodically. The main tune is being played by the acoustic guitar. There is a bass guitar playing in the background. The electronic drums provide the rhythmic background. The piece has an easygoing atmosphere. This piece could be an opening theme for a teenage drama movie/TV show. It could also be playing in the background at a clothing store.",
+  "general_mood": "easygoing",
+  "genre_tags": [
+    "teen pop"
+  ],
+  "lead_instrument": "acoustic guitar",
+  "accompaniment": "bass guitar, electronic drums",
+  "tempo_and_rhythm": "rhythmic background",
+  "vocal_presence": "melodically",
+  "production_quality": "string"
+}

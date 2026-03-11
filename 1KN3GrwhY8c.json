@@ -1,0 +1,12 @@
+{
+  "description": "This disco song features a male voice singing the main melody. This is accompanied by programmed percussion playing a disco beat. The synth changes chords after two bars to a higher pitch chord, then after one bar to a higher pitch chord, then after one more bar to a higher pitch chord and finally after one more bar to a suspended fourth chord. The instruments pause for 3 counts of the bar while the voice continues to sing. The bass plays the root notes of the chords. The mood of this song is romantic. This song can be played in a club.",
+  "general_mood": "romantic",
+  "genre_tags": [
+    "disco"
+  ],
+  "lead_instrument": "male voice",
+  "accompaniment": "programmed percussion",
+  "tempo_and_rhythm": "disco beat",
+  "vocal_presence": "main melody",
+  "production_quality": "not specified"
+}

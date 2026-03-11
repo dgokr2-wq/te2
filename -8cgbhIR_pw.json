@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a cover of a ballad song that consists of passionate, muddy male vocal singing over arpeggiated acoustic guitar melody. It sounds noisy, muddy and messy, as the frequencies are clashing, but it is also emotional and raw.",
+  "general_mood": "emotional",
+  "genre_tags": [
+    "ballad"
+  ],
+  "lead_instrument": "acoustic guitar",
+  "accompaniment": "vocal singing",
+  "tempo_and_rhythm": "arpeggiated",
+  "vocal_presence": "male",
+  "production_quality": "low"
+}

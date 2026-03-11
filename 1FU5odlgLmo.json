@@ -1,0 +1,12 @@
+{
+  "description": "This music is a pensive instrumental.The tempo is medium with a melancholic cello, rhythmic ukulele and a percussion instrument. The song is pensive, contemplative, meditative, melancholic,solemn and dreamy.",
+  "general_mood": "pensive",
+  "genre_tags": [
+    "instrumental"
+  ],
+  "lead_instrument": "cello",
+  "accompaniment": "ukulele, percussion",
+  "tempo_and_rhythm": "medium",
+  "vocal_presence": "none",
+  "production_quality": "good"
+}

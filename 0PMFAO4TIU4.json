@@ -1,0 +1,12 @@
+{
+  "description": "A digital drum is playing a simple beat along with some percussive sounds. A bass is playing the same melody as the accordion-like instrument. A male voice is shouting little phrases. This song may be playing a country having a traditional dance.",
+  "general_mood": "energetic",
+  "genre_tags": [
+    "country"
+  ],
+  "lead_instrument": "digital drum",
+  "accompaniment": "bass, accordion-like instrument",
+  "tempo_and_rhythm": "simple beat",
+  "vocal_presence": "male voice",
+  "production_quality": "good"
+}

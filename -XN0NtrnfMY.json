@@ -1,0 +1,12 @@
+{
+  "description": "The low quality recording features a rock song instrumental that consists of shimmering hi hats, punchy snare, groovy bass guitar, acoustic rhythm guitar in the left channel and electric guitar chord progression in the right channel of the stereo image. It sounds energetic and addictive.",
+  "general_mood": "energetic",
+  "genre_tags": [
+    "rock"
+  ],
+  "lead_instrument": "guitar",
+  "accompaniment": "bass guitar, hi hats, snare",
+  "tempo_and_rhythm": "groovy",
+  "vocal_presence": "none",
+  "production_quality": "low"
+}

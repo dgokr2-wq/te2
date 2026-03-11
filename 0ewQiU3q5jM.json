@@ -1,0 +1,13 @@
+{
+  "description": "This file contains audio playing a high pitched melody on a music box. The melody sounds a little freighting and is full of reverb. From the recording you can hear a little bit of white noise. This song may be playing in a horror movie scene.",
+  "general_mood": "eerie",
+  "genre_tags": [
+    "classical",
+    "experimental"
+  ],
+  "lead_instrument": "music box",
+  "accompaniment": "white noise",
+  "tempo_and_rhythm": "slow",
+  "vocal_presence": "none",
+  "production_quality": "good"
+}

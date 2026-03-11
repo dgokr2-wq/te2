@@ -1,0 +1,12 @@
+{
+  "description": "A male singer sings this exciting Latin dance melody.",
+  "general_mood": "exciting",
+  "genre_tags": [
+    "Latin"
+  ],
+  "lead_instrument": "saxophone",
+  "accompaniment": "guitar",
+  "tempo_and_rhythm": "medium fast",
+  "vocal_presence": "male singer",
+  "production_quality": "poor"
+}
